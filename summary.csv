@@ -1,0 +1,9 @@
+,decomp,comp,filename,score,size
+0,bpe,mtxatt,gu.sent.1m.bpe.mtxatt.ep15.lr0.01.bs100.vec.txt,0.3535741731007544,5L
+1,charn,add,gu.sent.1m.charn.add.ep15.lr0.01.bs100.vec.txt,0.4021940349312958,5L
+2,morf,add,gu.sent.1m.morf.add.ep15.lr0.01.bs100.vec.txt,0.38649686281760587,5L
+3,bpe,add,gu.sent.1m.bpe.add.ep15.lr0.01.bs100.vec.txt,0.3933509917521065,2M
+4,bpe,add,gu_5L_add.vec.txt,0.3357846674774615,5L
+5,bpe,att,gu.sent.1m.bpe.att.ep15.lr0.01.bs100.vec.txt,0.3357846674774615,5L
+6,bpe,wwadd,gu.sent.1m.bpe.wwadd.ep15.lr0.01.bs100.vec.txt,0.38187136163373314,5L
+7,charn,wwmtxatt,gu.sent.1m.charn.wwmtxatt.ep15.lr0.01.bs100.vec.txt,0.3908284643817892,5L
