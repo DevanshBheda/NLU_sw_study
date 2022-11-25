@@ -82,7 +82,8 @@ A cosine similarity was measured between the word embeddings and scaled to 10 as
 The code for evaluating these models can be found in `code/evaulate.ipynb` notebook.
 
 ### Results
-Results of some of the models can be seen as follows:
+Results of some of the models can be seen as follows:<br>
+
 ![img.png](img.png)
 
 ## References
